@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:candy_helmet"},
+        {"item":"aoa3:candy_chestplate"},
+        {"item":"aoa3:candy_legs"},
+        {"item":"aoa3:candy_boots"}
+      ]
+}

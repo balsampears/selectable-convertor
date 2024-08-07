@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##$"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "$": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "item": "selectable_convertor:artransfer_block"
+  }
+}

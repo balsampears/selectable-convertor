@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:spaceking_helmet"},
+        {"item":"aoa3:spaceking_chestplate"},
+        {"item":"aoa3:spaceking_legs"},
+        {"item":"aoa3:spaceking_boots"}
+      ]
+}

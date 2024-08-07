@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:necro_helmet"},
+        {"item":"aoa3:necro_chestplate"},
+        {"item":"aoa3:necro_legs"},
+        {"item":"aoa3:necro_boots"}
+      ]
+}

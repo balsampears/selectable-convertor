@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:runic_helmet"},
+        {"item":"aoa3:runic_chestplate"},
+        {"item":"aoa3:runic_legs"},
+        {"item":"aoa3:runic_boots"}
+      ]
+}

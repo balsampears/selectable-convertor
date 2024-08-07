@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"minecraft:golden_helmet"},
+        {"item":"minecraft:golden_chestplate"},
+        {"item":"minecraft:golden_leggings"},
+        {"item":"minecraft:golden_boots"}
+      ]
+}

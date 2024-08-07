@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:explosive_helmet"},
+        {"item":"aoa3:explosive_chestplate"},
+        {"item":"aoa3:explosive_legs"},
+        {"item":"aoa3:explosive_boots"}
+      ]
+}

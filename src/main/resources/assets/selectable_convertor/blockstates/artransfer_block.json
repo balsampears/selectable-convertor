@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "selectable_convertor:block/artransfer_block_model" }
+  }
+}

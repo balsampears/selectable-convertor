@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:hydroplate_helmet"},
+        {"item":"aoa3:hydroplate_chestplate"},
+        {"item":"aoa3:hydroplate_legs"},
+        {"item":"aoa3:hydroplate_boots"}
+      ]
+}

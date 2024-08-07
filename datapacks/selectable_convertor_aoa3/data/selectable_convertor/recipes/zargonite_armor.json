@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:zargonite_helmet"},
+        {"item":"aoa3:zargonite_chestplate"},
+        {"item":"aoa3:zargonite_legs"},
+        {"item":"aoa3:zargonite_boots"}
+      ]
+}

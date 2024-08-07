@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:baron_helmet"},
+        {"item":"aoa3:baron_chestplate"},
+        {"item":"aoa3:baron_legs"},
+        {"item":"aoa3:baron_boots"}
+      ]
+}

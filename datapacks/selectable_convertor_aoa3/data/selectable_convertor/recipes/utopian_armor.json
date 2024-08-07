@@ -1,0 +1,10 @@
+{
+  "type": "selectable_convertor:artransfer",
+  "ingredients":
+      [
+        {"item":"aoa3:utopian_helmet"},
+        {"item":"aoa3:utopian_chestplate"},
+        {"item":"aoa3:utopian_legs"},
+        {"item":"aoa3:utopian_boots"}
+      ]
+}
